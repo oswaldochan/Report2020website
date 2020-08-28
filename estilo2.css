@@ -1,0 +1,48 @@
+body {
+	color: #;
+	font-size: 50px;
+	text-align: center;
+	background-color: #FFE4C4;
+
+}
+
+hr {
+	height: 3px;
+	background-color: #00FFFF;
+}
+
+h3 {
+	color: #C71585;
+
+}
+
+h4 {
+    color: #C71585
+    
+}
+
+h1{
+	color: #8B008B ;
+}
+
+input {
+	color: #008b8b;
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: #FFB6C1
+
+}
+
+p {
+	font-family: cursive;
+	font-size: 22px;
+	text-align: justify;
+	margin: 30px;
+
+}
+
+img {
+	height: 250px;
+	width: 200px;
+}
